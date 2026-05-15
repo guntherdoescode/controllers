@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Gamepad body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,42 L74,42 C80,42 85,47 85,53 L85,62 C85,68 80,73 74,73 L70,73 C66,73 63,70 62,67 L61,64 C60,61 57,59 54,59 C51,59 48,60.8 47,64 L46,67 C45,70 42,73 38,73 L34,73 C28,73 23,68 23,62 L23,53 C23,47 28,42 34,42 Z" />
+    <!-- D-pad (shifted left 8, lowered 6) -->
+    <path
+        android:fillColor="#1A1A2E"
+        android:pathData="M32,54 L36,54 L36,58 L32,58 Z" />
+    <path
+        android:fillColor="#1A1A2E"
+        android:pathData="M40,54 L44,54 L44,58 L40,58 Z" />
+    <path
+        android:fillColor="#1A1A2E"
+        android:pathData="M36,56 L36,60 L40,60 L40,56 Z" />
+    <path
+        android:fillColor="#1A1A2E"
+        android:pathData="M36,52 L36,56 L40,56 L40,52 Z" />
+    <!-- Right buttons (lowered 6) -->
+    <path
+        android:fillColor="#1A1A2E"
+        android:pathData="M64,54 L68,54 L68,58 L64,58 Z" />
+    <path
+        android:fillColor="#1A1A2E"
+        android:pathData="M72,54 L76,54 L76,58 L72,58 Z" />
+    <path
+        android:fillColor="#1A1A2E"
+        android:pathData="M68,50 L68,54 L72,54 L72,50 Z" />
+    <path
+        android:fillColor="#1A1A2E"
+        android:pathData="M68,58 L68,62 L72,62 L72,58 Z" />
+</vector>
