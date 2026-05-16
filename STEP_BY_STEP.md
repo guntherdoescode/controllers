@@ -26,7 +26,7 @@ newgrp input
 
 ```bash
 # Build the server
-cd /home/user/controllers
+cd controllers
 cargo build --release
 
 # Run the server
@@ -66,14 +66,6 @@ Or transfer the APK to your phone manually and install it. You may need to enabl
 2. Open the app on your phone.
 3. Enter your desktop’s IP address and leave the port as `42069` (unless you changed it).
 4. Tap **Connect**. The status indicator will turn green when connected.
-
----
-
-## Step 4: Play
-
-- **Sticks:** Drag your finger in the left/right stick zones to move them. The further you drag, the more the stick moves.
-- **Triggers:** Tap L2/R2 for full press. Tap again to release.
-- **Buttons:** Tap the on-screen buttons as you would on a real controller.
 
 ---
 
